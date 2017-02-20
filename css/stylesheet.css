@@ -1,0 +1,60 @@
+#logo {
+  margin-top: 13%;
+  margin-left: 35%;
+}
+
+#btn {
+  margin-left: 33%;
+  margin-top: 15px;
+}
+
+#sbox {
+	margin-left: 25%;
+	margin-top: 10px;
+	padding: px;
+}
+
+ul {
+	list-style-type:none;
+	padding:0;
+}
+
+.header {
+	margin-top:-350px;
+	margin-right: 15px;
+	float:right;
+}
+
+li {
+	float:left;
+}
+
+a {
+	display:block;
+	padding: 8px;
+	color:black;
+}
+
+#signin {
+	background-color: blue;
+	color:red;
+	border-radius:3px;
+}
+
+#footer {
+  margin-top: 13%;
+  background-color: yellow;
+  padding-buttom: 20px;
+}
+
+#lf {
+	float:left;
+	margin-left: 30px;
+}
+
+#rf {
+	float:right;
+	margin-right: 30px;
+}
+
+
